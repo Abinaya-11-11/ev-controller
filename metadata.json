@@ -1,0 +1,6 @@
+{
+  "name": "EV Controller Dashboard",
+  "description": "Smart Electric Vehicle Controller Dashboard for monitoring battery, motor, live sensor data, ride history, charging analytics, and AI diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
